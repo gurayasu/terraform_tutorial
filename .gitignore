@@ -1,0 +1,9 @@
+/id_rsa_terraform
+/id_rsa_terraform.pub
+.terraform.lock.hcl
+/.terraform.tfstate.lock.info
+/terraform.tfstate.backup
+/terraform.tfstate
+/.terraform
+/.vscode
+```
